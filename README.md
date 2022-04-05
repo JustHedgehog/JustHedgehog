@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JustHedgehog
 - 👀 I’m interested in Java/Python/C#
-- 🌱 I’m currently learning JS/Node
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React :D
 - 📫 How to reach me ...
 
 <!---

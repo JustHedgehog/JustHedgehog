@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustHedgehog
-- 👀 I’m interested in Java/Python/C#
-- 🌱 I’m currently learning React :D
+- 👀 I’m interested in Java/Python/C#/React
+- 🌱 I’m currently learning AI stuff :D
 - 📫 How to reach me Discord JustHedgehog #8015
 
 <!---
